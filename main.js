@@ -110,7 +110,7 @@ function startGame() {
             })
         }
     } else {
-        nb = 0;
+        nb = 1;
         startGame();
     }
 }
