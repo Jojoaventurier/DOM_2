@@ -70,7 +70,7 @@ function startGame() {
     
      numberOfBoxes = prompt("How many boxes?")
      //console.log(numberOfBoxes);
-     console.log(board);
+     //console.log(board);
 
     if (numberOfBoxes != null && isNumber(numberOfBoxes) == true) { 
         
